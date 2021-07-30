@@ -1,30 +1,20 @@
-### Hi there 👋
-
-<!--
-**cristpb/cristpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 ## Olá! Sou Cristiano Peixoto Bernardi 
- <div>
+
+- 🔭 I’m currently working on RPA (PowerAutomate / Softmotive), Python, JavaScript, Azure, SQL (Oracle e SQL Server)
+- 🌱 I’m currently learning JavaScript, React, Python, Azure.
+- 👯 I'm looking to collaborate wherever possible...
+- 🤔 I’m looking for help with JavaScript, React, Python, Eletron
+- 📫 How to reach me: cristpb@gmail.com / cristiano@cbernardi.com
+
+<div>
   <a href="https://github.com/cristpb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristpb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristpb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
    ![Snake animation](https://github.com/cristpb/cristpb/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
 <!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
