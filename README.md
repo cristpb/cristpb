@@ -1,10 +1,20 @@
 ## Olá! Sou Cristiano Peixoto Bernardi 
 
+- 🔭 Atualmente trabalho com RPA (PowerAutomate / Softmotive), Python, JavaScript, Azure, SQL (Oracle e SQL Server)
+- 🌱 Estou estudando JavaScript, React, Python, Azure.
+- 👯 Espero colaborar no que for possível...
+- 🤔 Poderei precisar de ajuda com JavaScript, React, Python, Eletron
+- 📫 Meus e-mails de contato são: cristpb@gmail.com / cristiano@cbernardi.com
+
+
+## Hi! I'm Cristiano Peixoto Bernardi 
+
 - 🔭 I’m currently working on RPA (PowerAutomate / Softmotive), Python, JavaScript, Azure, SQL (Oracle e SQL Server)
 - 🌱 I’m currently learning JavaScript, React, Python, Azure.
 - 👯 I'm looking to collaborate wherever possible...
 - 🤔 I’m looking for help with JavaScript, React, Python, Eletron
 - 📫 How to reach me: cristpb@gmail.com / cristiano@cbernardi.com
+
 
 <div>
   <a href="https://github.com/cristpb">
