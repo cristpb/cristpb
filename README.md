@@ -1,18 +1,18 @@
 ## Olá! Sou Cristiano Peixoto Bernardi 
 
 - 🔭 Atualmente trabalho com RPA (PowerAutomate / Softmotive), Python, JavaScript, Azure, SQL (Oracle e SQL Server)
-- 🌱 Estou estudando JavaScript, React, Python, Azure.
+- 🌱 Estou estudando JavaScript, Python, Azure.
 - 👯 Espero colaborar no que for possível...
-- 🤔 Poderei precisar de ajuda com JavaScript, React, Python, Eletron
+- 🤔 Poderei precisar de ajuda com JavaScript, Python
 - 📫 Meus e-mails de contato são: cristpb@gmail.com / cristiano@cbernardi.com
 
 
 ## Hi! I'm Cristiano Peixoto Bernardi 
 
 - 🔭 I’m currently working on RPA (PowerAutomate / Softmotive), Python, JavaScript, Azure, SQL (Oracle e SQL Server)
-- 🌱 I’m currently learning JavaScript, React, Python, Azure.
+- 🌱 I’m currently learning JavaScript, Python, Azure.
 - 👯 I'm looking to collaborate wherever possible...
-- 🤔 I’m looking for help with JavaScript, React, Python, Eletron
+- 🤔 I’m looking for help with JavaScript, Python
 - 📫 How to reach me: cristpb@gmail.com / cristiano@cbernardi.com
 
 
@@ -27,7 +27,7 @@
   <a href="https://instagram.com/cristpb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/cristpb" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:cristiano@cbernatdi.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cristiano@cbernardi.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cristpb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ![Snake animation](https://github.com/cristpb/cristpb/blob/output/github-contribution-grid-snake.svg)
